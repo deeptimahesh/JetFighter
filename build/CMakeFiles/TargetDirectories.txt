@@ -1,0 +1,3 @@
+/home/deepti/Documents/Graphics/Assg2/20171212/build/CMakeFiles/edit_cache.dir
+/home/deepti/Documents/Graphics/Assg2/20171212/build/CMakeFiles/rebuild_cache.dir
+/home/deepti/Documents/Graphics/Assg2/20171212/build/CMakeFiles/graphics_asgn1.dir
